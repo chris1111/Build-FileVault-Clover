@@ -1,6 +1,6 @@
 # Build-FileVault-Clover
 
-### To build Clover by isolating filevault drivers in selctive choices
+### To build Clover Package by isolating filevault drivers in selctive choices
 No FileVault drivers are installed by default, you must select them if you want them
 
 Usage:
