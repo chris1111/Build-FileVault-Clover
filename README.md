@@ -5,3 +5,5 @@ No FileVault drivers are installed by default, you must select them if you want 
 
 Usage:
 - Complet new Clover build with this two file ebuild.sh, buildpkg.sh
+
+![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/captu198.png)
