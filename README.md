@@ -1,6 +1,11 @@
 # Build-FileVault-Clover
 
 ### To build Clover Package by isolating filevault drivers in selctive choices
+
+All the FileVault drivers are moved in the drivers-Off and the drivers64 filevault are renamed with an x because you can not create Drivers off the same name in the package
+
+![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/captu199.png)
+
 No FileVault drivers are installed by default, you must select them if you want them
 
 Usage:
