@@ -1,3 +1,5 @@
+# My original idee is done in the commit 4687 on Source Forge so this file is not nessecarry
+
 # Build-FileVault-Clover
 
 ### To build Clover Package by isolating filevault drivers in selctive choices
